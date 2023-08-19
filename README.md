@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/MoviniGayaraa.svg?style=social&label=followers&maxAge=2592000)](https://github.com/MoviniGayaraa?tab=followers)
 
-## 👨‍🦰 About me :
+## 👩‍💻 About me :
 
-- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
+- 👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 💻 I am a competitive programmer mainly at `Codeforces`.
-- 👨 Always `learning new things`
+- 👩‍💻 Always `learning new things`
 - 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with Coding.
 - 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
-***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
+***If you like what I do, maybe consider buying me a coffee*** 😊 👇
 
 <a href="https://www.buymeacoffee.com/MoviniGayara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
@@ -70,9 +70,9 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Movini Gayara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22110345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22110345" height="30" width="40" /></a>
 <a href="https://fb.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Movini Gayara" height="30" width="40" /></a>
-<a href="https://instagram.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanu vithanawasam" height="30" width="40" /></a>
+<a href="https://instagram.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Movini Gayara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Movini Gayara" height="30" width="40" /></a>
-<a href="https://discord.gg/ChAnu_vithAnawasam#3898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MoviniGayaraa" height="30" width="40" /></a>
+<a href="https://discord.gg/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MoviniGayaraa" height="30" width="40" /></a>
 
 </p>
 
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
-***My Contributions*** 😥 <br>
+***My Contributions*** 😊 <br>
 
 <p align="center">
   
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
    
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
-***...Contact ME...*** 😥 <br>
+***...Contact ME...*** 😊 <br>
    
    <p align="center">
 
