@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with Coding.
 - 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
-- ⚡ Fun fact **I think I'm funny😎**
 - 📫 How to reach me **MoviniGayara32@gmail.com**
   <br>
 <div>
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
 
 ***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
 
-<a href="https://www.buymeacoffee.com/chanumadhuG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+<a href="https://www.buymeacoffee.com/MoviniGayara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
 ***
 <div align="center">
