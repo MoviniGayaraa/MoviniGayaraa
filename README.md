@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b><i>Full Stack Developer from Sri Lanka 🇱🇰</i></b></h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;Competitive+Programmer;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
 
@@ -45,24 +45,20 @@ Here are some ideas to get you started:
 #
 </div>
 
-## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
-
-***If you like what I do, maybe consider buying me a coffee*** 😊 👇
-
-<a href="https://www.buymeacoffee.com/MoviniGayara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
-
-***
-<div align="center">
-
 
 ## 🔥 Streak Stats
 
+![](https://github-readme-stats.vercel.app/api?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoviniGayaraa&theme=monokai)
 <br>
 <br>
 [![](https://github-readme-streak-stats.herokuapp.com?user=MoviniGayaraa&theme=soft-green)]
 <br>
 <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoviniGayaraa" alt="MoviniGayaraa" /></a> </p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
