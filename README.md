@@ -64,11 +64,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Movini Gayara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Movini Gayara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22110345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22110345" height="30" width="40" /></a>
 <a href="https://fb.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Movini Gayara" height="30" width="40" /></a>
 <a href="https://instagram.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Movini Gayara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Movini Gayara" height="30" width="40" /></a>
-<a href="https://discord.gg/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MoviniGayaraa" height="30" width="40" /></a>
+
 
 </p>
 
@@ -121,7 +119,7 @@ Here are some ideas to get you started:
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoviniGayaraa&theme=tokyonight&utcOffset=8" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoviniGayaraa&theme=tokyonight" />
   
-   
+  
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
 ***...Contact ME...*** 😊 <br>
