@@ -70,39 +70,9 @@ Here are some ideas to get you started:
 
 </p>
 
-## 🛠️ My Skills
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=200&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
