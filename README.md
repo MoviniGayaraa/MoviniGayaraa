@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 ## 👩‍💻 About me :
 
 - 👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-- 💻 I am a competitive programmer mainly at `Codeforces`.
+- 🌱 I’m currently learning `Computer Science` .
 - 👩‍💻 Always `learning new things`
 - 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with Coding.
