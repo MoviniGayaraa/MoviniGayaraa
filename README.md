@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b><i>Full Stack Developer from Sri Lanka 🇱🇰</i></b></h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;Competitive+Programmer;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;Java%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
 
