@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/MoviniGayaraa.svg?style=social&label=followers&maxAge=2592000)](https://github.com/MoviniGayaraa?tab=followers)
 
-## 👩‍💻 About me :
+👩‍💻***About me :***  <br>
+ 
 
 - 👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` .
