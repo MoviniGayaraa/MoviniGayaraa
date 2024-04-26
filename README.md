@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 #
 </div>
 
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  Contributions
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 ## 🔥 Streak Stats
 
