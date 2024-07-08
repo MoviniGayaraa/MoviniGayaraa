@@ -35,10 +35,8 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
 - 🌱 I’m currently learning `Computer Science` .
-- 👩‍💻 Always `learning new things`
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
+  
+- 👩‍💻 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
 - 📫 How to reach me **MoviniGayara32@gmail.com**
   <br>
 <div>
@@ -58,9 +56,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoviniGayaraa&theme=monokai)
 <br>
 <br>
-[![](https://github-readme-streak-stats.herokuapp.com?user=MoviniGayaraa&theme=soft-green)]
-<br>
-<br>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoviniGayaraa" alt="MoviniGayaraa" /></a> </p>
 
@@ -87,13 +83,11 @@ Here are some ideas to get you started:
 <p align="center">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoviniGayaraa&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoviniGayaraa&theme=tokyonight" />
   
  <p>
 
-<br>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoviniGayaraa&theme=tokyonight&utcOffset=8" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoviniGayaraa&theme=tokyonight" />
-  
+
   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
