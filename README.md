@@ -33,12 +33,8 @@ Here are some ideas to get you started:
 👩‍💻***About me :***  <br>
  
 
-- 👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
-- 🌱 I’m currently learning `Computer Science` .
-  
-- 👩‍💻 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
-- 📫 How to reach me **MoviniGayara32@gmail.com**
-  <br>
+<h4>👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...</h4><h4>🌱 I’m currently learning `Computer Science`</h4> <h4>👩‍💻 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS</h4><h4> 📫 How to reach me **MoviniGayara32@gmail.com**</h4>
+
 <div>
 
 #
