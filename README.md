@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  
 
-<h3 align="center">A passionate software engineering undergraduate with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h3>
+<h4 align="center">A passionate software engineering undergraduate with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h4>
 
 
 <div>
@@ -50,7 +50,10 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoviniGayaraa&theme=tokyonight" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoviniGayaraa&theme=monokai)
+ 
+  
 <br>
 <br>
 
@@ -58,7 +61,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoviniGayaraa" alt="MoviniGayaraa" /></a> </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+##  Connect with me
 <p align="center">
 <a href="https://twitter.com/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Movini Gayara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Movini Gayara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Movini Gayara" height="30" width="40" /></a>
@@ -73,21 +76,12 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-
-***My Contributions***  <br>
-
-<p align="center">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoviniGayaraa&theme=tokyonight" />
-  
- <p>
 
 
   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
-***...Contact ME...***  <br>
+***<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contact ME...***  <br>
    
    <p align="center">
 
