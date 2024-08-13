@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Movini+Gayara;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi,+I'm+Movini+Gayara;IJSE-+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 
 <h3 align="center"><b><i>Full Stack Developer from Sri Lanka </i></b></h3>
 <p align="center">
@@ -30,22 +30,23 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/MoviniGayaraa.svg?style=social&label=followers&maxAge=2592000)](https://github.com/MoviniGayaraa?tab=followers)
 
-👩‍💻***About me :***  <br>
+
  
 
-<h4>👩‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...</h4><h4>🌱 I’m currently learning `Computer Science`</h4> <h4>👩‍💻 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS</h4><h4> 📫 How to reach me **MoviniGayara32@gmail.com**</h4>
+<h3 align="center">A passionate software engineering undergraduate with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h3>
+
 
 <div>
 
 #
 </div>
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  Contributions
+##   Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
@@ -74,12 +75,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
-***My Contributions*** 😊 <br>
+***My Contributions***  <br>
 
 <p align="center">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoviniGayaraa&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoviniGayaraa&theme=tokyonight" />
   
  <p>
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
-***...Contact ME...*** 😊 <br>
+***...Contact ME...***  <br>
    
    <p align="center">
 
